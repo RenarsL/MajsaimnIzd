@@ -1,0 +1,10 @@
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\bin\Debug\MajssaimnIzd.exe.config
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\bin\Debug\MajssaimnIzd.exe
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\bin\Debug\MajssaimnIzd.pdb
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.csprojAssemblyReference.cache
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.Form1.resources
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.Properties.Resources.resources
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.csproj.GenerateResource.cache
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.csproj.CoreCompileInputs.cache
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.exe
+Z:\Programmesana\Jauna mape\MajssaimnIzd\MajssaimnIzd\obj\Debug\MajssaimnIzd.pdb
